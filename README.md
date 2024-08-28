@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Moguloju Sai</h1>
-<h3 align="center">Aspiring data scientist</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/036/340/968/small/developer-working-on-laptop-and-drinking-coffee-flat-style-illustration-vector.jpg">
 
 
