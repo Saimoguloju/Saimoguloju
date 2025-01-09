@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Aws, Azure**
 
-- 📝 I regularly write articles on [medium](@saimoguloju2)
+- 📝 I regularly write articles on [Medium](https://medium.com/@saimoguloju2))
 
 - 💬 Ask me about **Machine Learning, Data Science**
 
