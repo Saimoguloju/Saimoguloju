@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/036/340/968/small/developer-working-on-laptop-and-drinking-coffee-flat-style-illustration-vector.jpg">
 
 
-<p align="left"> <a href="https://twitter.com/mogulojusai2" target="blank"><img src="https://img.shields.io/twitter/follow/mogulojusai2?logo=twitter&style=for-the-badge" alt="mogulojusai2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mogulojusai2" target="blank"><img src="https://img.shields.io/twitter/follow/mogulojusai2?logo=twitter&style=for-the-badge" alt="mogulojusai" /></a> </p>
 
 - 🌱 I’m currently learning **Gen ai**
 
