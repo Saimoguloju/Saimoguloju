@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Moguloju Sai</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHpld6XwW12i43gfquXu-VwkuO9AqMfo9UvQ&s">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*VWb20X8Dbmqe6UG-vUJmYQ.png">
 
 
 <p align="left"> <a href="https://twitter.com/mogulojusai2" target="blank"><img src="https://img.shields.io/twitter/follow/mogulojusai2?logo=twitter&style=for-the-badge" alt="mogulojusai" /></a> </p>
