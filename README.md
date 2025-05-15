@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mogulojusai2" target="blank"><img src="https://img.shields.io/twitter/follow/mogulojusai2?logo=twitter&style=for-the-badge" alt="mogulojusai" /></a> </p>
 
-- 🌱 I’m currently learning **Gen ai**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@saimoguloju2)
 
