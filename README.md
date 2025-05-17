@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Moguloju Sai</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">AI Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1024/1*VWb20X8Dbmqe6UG-vUJmYQ.png">
 
 
