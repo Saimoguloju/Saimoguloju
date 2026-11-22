@@ -1,6 +1,6 @@
 # Hi, I'm Moguloju Sai
 
-I'm a **Full Stack AI Engineer** with around 2 years of experience building AI-powered applications, intelligent agents, RAG systems, multi-agent architectures, and automation solutions.
+I'm a **Full Stack AI Engineer** | **FDE** with around 2 years of experience building AI-powered applications, intelligent agents, RAG systems, multi-agent architectures, and automation solutions.
 
 I enjoy building practical AI products that solve real-world problems, from conversational AI and voice agents to autonomous workflows and enterprise automation.
 
