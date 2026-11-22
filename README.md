@@ -35,7 +35,6 @@ I enjoy building practical AI products that solve real-world problems, from conv
 ### Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/moguloju-sai-2b060b228/
-- GitHub: https://github.com/Saimogulo
 - Email: saimoguloju2@gmail.com
 
 ---
